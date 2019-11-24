@@ -8,6 +8,8 @@
     "eject": "expo eject"
   },
   "dependencies": {
+    "cypress": "^3.6.1",
+    "enzyme": "^3.10.0",
     "expo": "^35.0.0",
     "react": "16.8.3",
     "react-dom": "16.8.3",
